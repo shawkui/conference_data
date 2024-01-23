@@ -1,2 +1,5 @@
-# conference_data
-Some conference data for reference
+# Data for some conference
+ Update sometimes.
+
+### Recommend resource
+* Paper Copilot: https://papercopilot.com/statistics/
